@@ -14,3 +14,15 @@ You can verify that the camera works by running.
 
 ```raspistill -o image.jpg```
 which will save a image from the camera in your current directory. You can open up the file inspector and view the image.
+
+#Running the Program
+
+Run the program
+
+python main.py
+
+You can view a live stream by visiting the ip address of your pi in a browser on the same network. 
+
+You can find the ip address of your Raspberry Pi by typing ifconfig in the terminal and looking for the ```inet``` address.
+
+Visit ```<raspberrypi_ip_address>:5000``` in your browser to view the stream.
