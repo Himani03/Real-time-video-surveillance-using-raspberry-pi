@@ -23,6 +23,6 @@ Run the program
 
 You can view a live stream by visiting the ip address of your pi in a browser on the same network. 
 
-You can find the ip address of your Raspberry Pi by typing ifconfig in the terminal and looking for the ```inet``` address.
+You can find the ip address of your Raspberry Pi by typing ```ifconfig``` in the terminal and looking for the ```inet``` address.
 
 Visit ```<raspberrypi_ip_address>:5000``` in your browser to view the stream.
