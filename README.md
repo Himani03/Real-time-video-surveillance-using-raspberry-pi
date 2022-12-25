@@ -19,7 +19,7 @@ which will save a image from the camera in your current directory. You can open 
 
 Run the program
 
-python main.py
+```python main.py```
 
 You can view a live stream by visiting the ip address of your pi in a browser on the same network. 
 
