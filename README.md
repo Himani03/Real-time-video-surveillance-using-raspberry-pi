@@ -29,8 +29,17 @@ Visit ```<raspberrypi_ip_address>:5000``` in your browser to view the stream.
 
 # Output
 ![noname](https://user-images.githubusercontent.com/53009277/215036384-be101093-96e2-4a61-affd-281425a0a964.jpg)
+
 Uper body recognition
+
 ![noname(1)](https://user-images.githubusercontent.com/53009277/215036489-12e0dc05-e2a0-4006-b5e7-6a917d2c5d1f.jpg)
+
 Full body recognition
+
 ![noname(2)](https://user-images.githubusercontent.com/53009277/215036531-d280700c-3f72-44c3-9ee3-bb18306828c4.jpg)
+
 Facial recognition
+
+![Capture](https://user-images.githubusercontent.com/53009277/215037205-7579bd61-bfa8-4485-aa4d-7f3ab31bb35e.PNG)
+
+The recieved email for security
